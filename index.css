@@ -1,0 +1,34 @@
+.checked {
+    color: orange;
+  }
+  .star{
+      color:red;
+  }
+
+  td, th {
+      margin: 0px;
+    border: 0px solid #ccc;
+    padding: 10px;
+}
+
+h3{
+    margin-bottom: 0px;
+}
+.limit{
+    width:500px;
+    
+}
+#mydiv {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+}
+.verticalLine {
+    border-left: thick solid grey;
+  }
